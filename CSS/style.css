@@ -1,0 +1,36 @@
+body{
+  
+    font-family: "Montserrat", sans-serif;
+}
+
+.img-logo{
+    height: 45px;
+    width: 45px;
+    margin: 5px;   
+    align-items: center;
+    padding: 0.5rem;
+    background-color: #61BAD6;
+    border-radius: 100%;
+}
+
+
+.img-logo.sm{
+    height: 35px;
+    width: 35px;
+    margin: 5px;   
+    align-items: center;
+    padding: 0.4rem;
+    background-color: #61BAD6;
+    border-radius: 100%;
+}
+
+.nav-text{
+    color: white;
+}
+
+.hero{
+    background-color: gainsboro;
+}
+.navbar-color{
+    background-color: gainsboro;
+}
